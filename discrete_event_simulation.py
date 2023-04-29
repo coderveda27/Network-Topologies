@@ -5,7 +5,7 @@ import random
 from typing import Optional
 
 from python_ta.contracts import check_contracts
-
+ 
 from a3_network import Channel, NodeAddress, AbstractNetwork, Packet
 from a3_part1 import AbstractRing, AbstractTorus
 
