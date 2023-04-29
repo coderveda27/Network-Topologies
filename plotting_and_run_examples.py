@@ -15,7 +15,7 @@ from a3_part4 import GreedyChannelRing, GreedyChannelTorus, GreedyChannelStar, \
 
 def run_example() -> list[PacketStats]:
     """Run an example simulation.
-
+ 
     You may, but are not required to, change the code in this example to experiment with the simulation.
     """
     network = AlwaysRightRing(5)
