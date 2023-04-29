@@ -2,7 +2,7 @@ from __future__ import annotations
 from typing import Optional
 
 
-###############################################################################
+############################################################################### 
 # The three building blocks: Node, Channel, and Packet
 ###############################################################################
 # This creates a type alias, to save us typing "int | tuple[int, int]" everywhere
