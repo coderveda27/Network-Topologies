@@ -4,7 +4,7 @@ from typing import Optional
 from python_ta.contracts import check_contracts
 
 from a3_network import Channel, NodeAddress, Node, Packet 
-from a3_part1 import AbstractRing, AbstractTorus, AbstractStar
+from a3_part1 import AbstractRing, AbstractTorus, AbstractStar 
 
 
 @check_contracts
